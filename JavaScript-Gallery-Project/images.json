@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Bild-1",
+    "description": "A man in an office talking to someone on a phone",
+    "url": "/img/bork.webp",
+    "alt": "Talking on a phone"
+  },
+
+  {
+    "title": "Bild-2",
+    "description": "Trying to figure out what to write",
+    "url": "/img/computer.webp",
+    "alt": "Looking down on your desk"
+  },
+
+  {
+    "title": "Bild-3",
+    "description": "A very fancy gate from the early days",
+    "url": "/img/gate.webp",
+    "alt": "Very decorative gate with beautiful reliefs."
+  },
+
+  {
+    "title": "Bild-4",
+    "description": "A laptop connected to a bigger monitor",
+    "url": "/img/joshua.webp",
+    "alt": "A coding setup with a laptop and a bigger monitor"
+  }
+]
