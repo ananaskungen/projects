@@ -1,6 +1,6 @@
 # General info
 
-This is a repository for projects I have done. You will find all my projects within each respective branch. 
+This is a repository for projects I have done. You will find all projects within each respective branch. 
 
 # Contact Information
 
